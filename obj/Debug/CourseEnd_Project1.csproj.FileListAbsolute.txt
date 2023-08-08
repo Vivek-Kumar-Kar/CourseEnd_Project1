@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Desktop\C# pratice Projects\courseEnd_project1\CourseEnd_Project1\CourseEnd_Project1\bin\Debug\CourseEnd_Project1.exe.config
+C:\Users\Lenovo\Desktop\C# pratice Projects\courseEnd_project1\CourseEnd_Project1\CourseEnd_Project1\bin\Debug\CourseEnd_Project1.exe
+C:\Users\Lenovo\Desktop\C# pratice Projects\courseEnd_project1\CourseEnd_Project1\CourseEnd_Project1\bin\Debug\CourseEnd_Project1.pdb
+C:\Users\Lenovo\Desktop\C# pratice Projects\courseEnd_project1\CourseEnd_Project1\CourseEnd_Project1\obj\Debug\CourseEnd_Project1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# pratice Projects\courseEnd_project1\CourseEnd_Project1\CourseEnd_Project1\obj\Debug\CourseEnd_Project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\C# pratice Projects\courseEnd_project1\CourseEnd_Project1\CourseEnd_Project1\obj\Debug\CourseEnd_Project1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# pratice Projects\courseEnd_project1\CourseEnd_Project1\CourseEnd_Project1\obj\Debug\CourseEnd_Project1.exe
+C:\Users\Lenovo\Desktop\C# pratice Projects\courseEnd_project1\CourseEnd_Project1\CourseEnd_Project1\obj\Debug\CourseEnd_Project1.pdb
